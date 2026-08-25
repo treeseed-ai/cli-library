@@ -1,3 +1,3 @@
-# TreeSeed CLI content
+# TreeSeed CLI library
 
-Authoritative content history for `treeseed-ai/cli`. Operate content through TreeDX and publish immutable runtime content through the protected workflow.
+Authoritative project library history for `treeseed-ai/cli`. Operate library knowledge through TreeDX and publish immutable runtime content through the protected workflow.
