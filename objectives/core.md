@@ -1,15 +1,10 @@
 ---
-id: objective:cli-core
-title: TreeSeed CLI Core Objective
-description: TreeSeed CLI should publish the treeseed and trsd command surfaces for configuration, local development, multi-repo save/stage/release workflows, hosting reconciliation, capacity provider lifecycle, package image workflows, and workflow diagnostics.
-date: 2026-06-22
-summary: TreeSeed CLI exists to publish the treeseed and trsd command surfaces for configuration, local development, multi-repo save/stage/release workflows, hosting reconciliation, capacity provider lifecycle, package image workflows, and workflow diagnostics while preserving its package boundary.
-status: live
-timeHorizon: long-term
-motivation: Package-local workdays need a stable north star from the README so humans and agents can plan, execute, review, and report work without drifting across package ownership boundaries.
-primaryContributor: cli-steward
-relatedQuestions: []
-relatedBooks: []
+schemaVersion: treeseed.objective/v1
+id: cli-core
+projectId: cli
+title: "TreeSeed CLI Core Objective"
+outcome: "TreeSeed CLI exists to publish the treeseed and trsd command surfaces for configuration, local development, multi-repo save/stage/release workflows, hosting reconciliation, capacity provider lifecycle, package image workflows, and workflow diagnostics while preserving its package boundary."
+status: active
 ---
 
 TreeSeed CLI exists to publish the treeseed and trsd command surfaces for configuration, local development, multi-repo save/stage/release workflows, hosting reconciliation, capacity provider lifecycle, package image workflows, and workflow diagnostics.
